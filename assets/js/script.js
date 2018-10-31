@@ -1484,7 +1484,7 @@ function initialize() {
 
 			// get line data
 
-			var projUrl = 'proj_eval.geojson';
+			var projUrl = 'myfile.geojson';
 			d3.json(projUrl, function(error, json) {
 				if (error) return console.warn(error);
 				// console.log(json);
