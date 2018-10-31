@@ -1393,7 +1393,7 @@ function initialize() {
 	});
 	var currentLayer;
 	
-	var csvUrl = 'sample_D.csv';
+	var csvUrl = 'Draft_visualization_08262015.csv';
 	// 'BC_Current_Future_0812.csv'
 	d3.text(csvUrl, function(unparsedData){
 
