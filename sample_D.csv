@@ -1,138 +1,156 @@
-ProjectID,ProjectType,Jurisdiction,ProjectDescription,Mobility_&_Congestion,Reliability,Connectivity,Multimodalism,Asset_Management,Saftey,Air_&_Climate,Cultural_&_Environmental_Resources,Social_Equity,Land_Use_Compatibility,Goods_Movement,Employment_Accessibility,Final_Score,Performance_Tier,Cost
-MID-01,Bike,ATL,10th St Bridge Cycle Track,100,,35,60,,57,100,68,100,75,,100,74,1,4580000
-GW-380,Bike,GW,Buford Hwy Bike & Ped,23,,68,70,,74,4,63,0,25,,100,50,4,5210000
-ADID-02,Ped,ATL,Northside Drive Ped. Imp.,100,,100,30,,58,73,50,0,100,,100,70,1,6150000
-HOL-01,Ped,CH,Holly Springs - multiple streets,23,,40,0,,10,4,50,0,0,,100,24,4,3090000
-DK-414,Ped,DK,Ped to Schools,54,,100,30,,27,19,50,100,50,,100,60,4,5680000
-DK-441,Ped,DK,US 278 Improvements,46,,100,70,,48,100,55,0,50,,100,63,1,5340000
-FAI-01,Ped,FA,Broad Street Ped & Bike Lanes,38,,100,93,,67,27,38,0,50,,100,62,3,4600000
-COS-01,Ped,FN,Roswell Road/SR 9/US 19,100,,100,30,,66,100,5,100,50,,100,74,3,7800000
-FS-287,Ped,FS,North Central Ave Improv.,33,,100,30,,18,45,50,100,50,,100,57,2,330000
-DAL-02,Ped,PA,SR 61/Confederate Avenue,26,,40,0,,33,7,50,0,0,,100,28,2,250000
-CL-01,Road Asset,CL,Forest Parkway Pavement Rehab,74,,66,50,32,25,,40,100,,50,100,58,3,5010000
-CL-267,Road Asset,CL,Valley Hill Rd Bridge Replacement,33,,66,50,53,50,,62,100,,50,100,60,3,5810000
-3-Mar,Road Asset,CO,Franklin Gateway Bridge,40,,0,100,56,0,,62,100,,0,100,48,3,4170000
-DO-300,Road Asset,DO,Riverside Parkway Bridge Upgrade,28,,66,0,52,0,,50,0,,50,100,37,1,630000
-FA-02-1,Road Asset,FA,Fayette Resurf  - W.McIntosh,8,,33,0,95,50,,26,100,,0,100,47,3,590000
-FA-02-10,Road Asset,FA,Fayette Resurf - Lees Lake Rd,5,,33,0,77,50,,38,0,,0,100,36,4,580000
-FA-02-11,Road Asset,FA,Fayette Resurf - Sandy Creek,23,,66,0,57,50,,0,0,,0,100,38,3,940000
-FA-02-2,Road Asset,FA,Fayette Resurf - Hampton Rd,18,,33,0,90,50,,37,0,,0,100,40,1,270000
-FA-02-3,Road Asset,FA,Fayette Resurf - Berhard,9,,33,0,79,50,,41,0,,0,0,27,2,260000
-FA-02-4,Road Asset,FA,Fayette Resurf - Robbinson Rd,31,,66,0,58,50,,28,0,,0,0,30,4,2010000
-FA-02-5,Road Asset,FA,Fayette Resurf - S.Peachtree Pkwy,36,,66,0,68,50,,24,0,,0,0,32,4,3040000
-FA-02-6,Road Asset,FA,Fayette Resurf - Beau/Redwine,39,,66,0,51,50,,31,0,,0,100,41,1,600000
-FA-02-7,Road Asset,FA,Fayette Resurf - Grady,45,,33,0,50,50,,46,0,,50,100,42,1,230000
-FA-02-8,Road Asset,FA,Fayette Resurf - Dogwood,14,,33,0,59,50,,35,0,,0,0,24,4,570000
-FA-02-9,Road Asset,FA,Fayette Resurf - Tyrone Rd,26,,66,0,79,50,,39,0,,0,0,33,2,430000
-JOH-05,Road Asset,FN,SR120 Landscaping & Sound Abatement,94,,66,0,18,50,,26,0,,50,0,37,2,2000000
-GW-PVT1,Road Asset,GW,Peachtree Ind. Blvd Resurfacing,100,,66,0,62,0,,24,0,,50,100,47,1,2300000
-GW-PVT2,Road Asset,GW,Sat Blvd Resurf - PH1 - PH to SR120,100,,66,0,60,0,,37,0,,0,100,43,1,1500000
-GW-PVT3,Road Asset,GW,Riverside Parkway Resurfacing,58,,33,0,43,0,,39,0,,0,100,31,2,800000
-GW-PVT4,Road Asset,GW,Buford Dam Road Resurfacing,36,,66,0,69,0,,22,0,,0,0,25,2,950000
-GW-PVT5,Road Asset,GW,Sat Blvd Resurf - PH2 - MG Ferry to Smith,53,,66,0,46,0,,44,0,,0,100,35,2,1000000
-NE-106,Road Asset,NE,Brown Bridge Rd @Yellow River,46,,66,50,100,0,,61,0,,50,0,43,3,6660000
-NE-107,Road Asset,NE,Brown Bridge Rd @Snapping Shoal,42,,66,0,69,25,,75,0,,50,0,36,4,4550000
-CCID01,Road Expansion,CO,Akers Mill Express Lane Ramps,14,100,0,0,,13,0,41,0,,0,73,25,2,20570000
-CO-450B,Road Expansion,CO,S. Barrett Pkway Reliever - PH3,70,0,100,100,,38,82,49,0,,0,84,55,1,31160000
-NEWNAN-01,Road Expansion,CW,Lower Fayetteville Rd Widening,24,30,0,62,,55,31,48,100,,0,65,40,3,52200000
-EAS-01,Road Expansion,FS,Welcome All Rd Widening,11,55,0,9,,21,35,48,100,,100,70,39,3,6330000
-FT-001F,Road Expansion,FT,SR9 Widening,31,76,0,20,,67,43,43,0,,100,62,44,1,17500000
-AR-ML-020,Road Expansion,GDOT,I-285 @I-20 W - Int. Recons. & Widening,86,14,0,0,,14,0,50,100,,100,97,42,3,40100000
-AR-ML-025,Road Expansion,GDOT,I-285 @I-20 E - Int. Recons. & Widening,50,42,0,0,,41,100,50,0,,100,50,40,1,29190000
-AR-ML-210,Road Expansion,GDOT,I-285 from I-75 to I-20 Express Lanes,50,64,0,0,,17,0,0,100,,0,100,34,2,33400000
-AR-ML-240,Road Expansion,GDOT,I-285 East Wall Express Lanes,50,55,0,0,,20,0,30,100,,0,100,35,2,42720000
-GW-269,Road Expansion,GW,SR124 Widening,100,100,0,100,,37,46,33,0,,100,100,65,1,39310000
-GW-389,Road Expansion,GW,I-85 @ McGinnis Ferry Rd - New Int.,9,0,0,0,,25,35,50,0,,100,74,25,2,15200000
-GW-EVM1,Road Expansion,GW,North Evemore Pkwy Extension,19,0,100,4,,38,25,46,0,,100,22,35,2,11600000
-GW-KH,Road Expansion,GW,Killian Hill Rd Widening,69,45,0,0,,29,58,45,100,,0,33,35,1,20000000
-HE-005,Road Expansion,HE,SR81 Widening,51,31,0,62,,41,71,55,100,,100,57,52,1,21940000
-HE-109,Road Expansion,HE,Rock Quarry Road Extension,15,0,100,33,,25,45,65,0,,0,23,31,2,7000000
-HE-126 B,Road Expansion,HE,Bill Gardner Parkway Widening,36,32,0,45,,88,30,52,0,,100,64,45,3,18000000
-HE-137,Road Expansion,HE,East Atlanta Road Widening,32,23,0,38,,26,37,47,0,,0,23,22,4,39000000
-HE-161A,Road Expansion,HE,Rock Quarry Road Widening,36,33,0,68,,29,38,64,0,,0,63,33,4,32980000
-HE-193,Road Expansion,HE,Jodeco Road Widening,11,26,0,42,,27,27,68,0,,0,12,20,4,23700000
-PA-036B,Road Expansion,PA,Cedarcrest Rd Widening,4,3,0,19,,47,25,34,0,,0,15,15,4,38850000
-RO 235E1,Road Expansion,RO,Sigman Rd Widening - PH4,8,53,0,50,,60,37,58,0,,100,68,42,3,27310000
-RO 243,Road Expansion,RO,I-20 Crossing - Old Cov. To Flat Shoals,5,0,100,16,,13,31,54,0,,0,70,29,4,21750000
-RO-235D,Road Expansion,RO,Sigman Rd Widening - PH3,26,25,0,71,,65,31,71,100,,100,70,51,3,28300000
-Atlanta-03,Road Operations,ATL,Peachtree Strategy,49,44,100,0,,36,0,48,100,,0,100,49,3,18000000
-CHE-01,Road Operations,CH,Trickum Rd @ SR 92 Int. Improvements,30,95,100,0,,75,0,50,0,,100,0,48,3,4500000
-CHE-02,Road Operations,CH,I-575 @ Towne Lake Pkwy Int. Improv.,48,38,100,0,,72,38,50,0,,100,0,46,3,5800000
-CHE-03,Road Operations,CH,I-575 @ Ridgewalk Pkwy Int. Improv.,41,49,100,0,,75,38,50,0,,100,0,47,3,4690000
-Brookhaven-04a,Road Operations,DK,Ashford Dun. @ Windsor Pkwy,70,84,100,30,,44,34,50,0,,0,0,46,1,2600000
-Brookhaven-04b,Road Operations,DK,Ashford Dun. @ Ptree Rd,25,57,100,30,,49,27,49,0,,0,0,37,4,8240000
-Brookhaven-08,Road Operations,DK,Ashford Dun. @ Mont. Elem.,47,97,100,48,,38,28,50,0,,0,0,45,4,1920000
-Brookhaven-10,Road Operations,DK,Ashford Dun. Rd South,33,62,100,46,,51,28,48,0,,0,0,41,4,7600000
-DK-065B,Road Operations,DK,Panola Rd Seg.2 Oprtnl Impr.,76,55,100,100,,48,100,53,100,,0,100,74,1,22180000
-DK-344C,Road Operations,DK,25 signal upgrades,69,50,100,0,,49,100,51,100,,100,100,69,1,3200000
-DUN-01,Road Operations,DK,Chamblee Dun. Impr.,92,100,0,50,,67,43,49,0,,0,0,44,2,4600000
-FN-287,Road Operations,FN,SR 120 - Parsons to Medlock,41,53,100,0,,31,33,47,0,,100,0,41,4,16000000
-FN-288A,Road Operations,FN,Barnwell @ Holcolmb Br.,30,48,100,32,,30,28,49,0,,100,0,42,4,7000000
-FT-335,Road Operations,FT,Jewell Bennett Rd @ SR9 Realign/Turn,4,17,100,0,,21,25,50,0,,100,0,30,4,1400000
-GW-CVEH,Road Operations,GW,Ptree Ind. Blvd. Smart Cor - PH1 &2,75,47,100,0,,40,100,0,0,,100,100,59,1,2850000
-GW-ITS1,Road Operations,GW,ITS Expansion - PH1,66,35,100,0,,13,100,36,100,,100,100,61,1,4890000
-GW-ITS3,Road Operations,GW,ITS Expansion - PH2,59,3,100,0,,25,100,36,100,,100,100,58,1,5930000
-NE-105,Road Operations,NE,Realignment,8,12,100,0,,88,0,50,0,,100,100,47,3,5760000
-GRI-02,Road Operations,SP,Solomon St. Inters. Impr.,6,24,0,0,,39,25,55,0,,0,0,14,4,2400000
-SP-067A,Road Operations,SP,SR 155 Relocation,7,26,100,0,,2,25,46,100,,100,100,46,4,12840000
-AR-550,Transit Asset,GRTA,Xpress Fleet Reinvestment,54,,,,67,100,,0,0,,,100,60,3,4250000
-GRTA-003,Transit Asset,GRTA,Xpress Breeze Migrat. & Mobile Ticket,90,,,,0,100,,0,0,,,100,52,2,2500000
-GRTA-004,Transit Asset,GRTA,Xpress Integrated Tech Project,90,,,,0,100,,0,0,,,100,52,2,8000000
-GRTA-006,Transit Asset,GRTA,Xpress Rockdale P&R Expansion,33,,,,13,100,,30,100,,,100,60,3,8250000
-GW-PNR,Transit Asset,GW,Indian Trail P&R Lot Improvements,33,,,,86,0,,25,100,,,100,63,3,2000000
-M-AR-274B2,Transit Asset,MARTA,MARTA Clean Bus Procurement,17,,,,69,0,100,0,100,,,100,58,1,5500000
-MARTA-02,Transit Asset,MARTA,Edgewood Station TOD Improvements,59,,,,50,0,,60,100,,,100,63,2,4700000
-CO-702,Transit Expansion,CO,Weekend Transit Service,100,16,100,0,,0,100,0,100,25,,50,53,3,6800000
-DO-01,Transit Expansion,DO,Fixed Route Service,14,13,67,50,,0,16,46,100,25,,62,40,4,8000000
-GRTA-002,Transit Expansion,GRTA,Xpress NW Service Expansion,9,52,67,0,,100,6,42,100,25,,67,47,3,5880000
-GRTA-005,Transit Expansion,GRTA,Xpress Sugarloaf P&R Expansion,1,50,67,50,,100,0,65,0,0,,100,43,3,8250000
-GW-BUS1,Transit Expansion,GW,Gwinnett Transit Services Enh. - PH1,64,13,100,25,,0,58,62,100,50,,88,58,1,5040000
-GW-BUS2,Transit Expansion,GW,Gwinnett Transit Services Enh. - PH2,64,13,100,25,,0,58,47,100,50,,88,57,1,3210000
-GW-BUS3,Transit Expansion,GW,Gwinnett Transit Route 55,26,25,33,25,,0,29,47,100,50,,83,42,4,4590000
-MARTA-04,Transit Expansion,MARTA,Clifton Corridor,100,71,67,0,,100,100,48,100,25,,73,69,3,45000000
-MARTA-05-1,Transit Expansion,MARTA,MORE MARTA - Route 71,18,30,33,0,,0,7,48,100,0,,73,31,2,4810000
-MARTA-05-10,Transit Expansion,MARTA,MORE MARTA - Route 60,0,25,33,0,,0,0,49,100,0,,68,27,4,2480000
-MARTA-05-11,Transit Expansion,MARTA,MORE MARTA - Route 2,1,13,67,0,,0,0,48,100,75,,72,38,4,1380000
-MARTA-05-12,Transit Expansion,MARTA,MORE MARTA - Route 102,11,13,67,0,,0,10,49,100,75,,81,41,2,1210000
-MARTA-05-2,Transit Expansion,MARTA,MORE MARTA - Route 78,17,30,33,0,,0,12,49,100,25,,77,34,2,2500000
-MARTA-05-3,Transit Expansion,MARTA,MORE MARTA - Route 83,13,33,33,0,,0,8,49,100,25,,63,32,2,3310000
-MARTA-05-4,Transit Expansion,MARTA,MORE MARTA - Route 95,100,30,67,0,,0,100,47,100,0,,88,54,1,4660000
-MARTA-05-5,Transit Expansion,MARTA,MORE MARTA - Route 110,100,30,100,0,,0,100,49,100,25,,89,62,1,1490000
-MARTA-05-6,Transit Expansion,MARTA,MORE MARTA - Route 12,65,25,33,0,,0,0,49,100,25,,81,40,2,2570000
-MARTA-05-7,Transit Expansion,MARTA,MORE MARTA - Route 49,1,25,67,0,,0,0,49,100,25,,76,35,4,2820000
-MARTA-05-8,Transit Expansion,MARTA,MORE MARTA - Route 51,51,25,67,0,,0,51,49,100,25,,73,45,1,2670000
-MARTA-05-9,Transit Expansion,MARTA,MORE MARTA - Route 55,43,25,67,0,,0,36,48,100,25,,70,42,3,4260000
-AR-450A,Trail,ATL,ATL Beltline - NE Quad,100,,80,50,,100,100,67,100,25,,100,80,3,101000000
-AR-450C,Trail,ATL,ATL Beltline - SE Quad,100,,100,50,,100,100,65,100,25,,100,83,3,98820000
-ATL-299,Trail,ATL,Lee Street Trail,100,,100,50,,75,100,48,100,25,,100,78,1,8150000
-BCID-02,Trail,ATL,Lenox Rd Trail,52,,20,0,,0,46,55,0,0,,100,27,2,4550000
-BCID-04,Trail,ATL,Peachtree Rd Trail - Buckhead,83,,20,0,,50,86,50,0,25,,100,44,3,13950000
-LBI-01,Trail,ATL,PATH400 - Wieuca to Loridans,34,,80,50,,75,32,61,0,0,,0,40,4,5600000
-LBI-2,Trail,ATL,PATH400 - Sandy Springs Ext.,49,,100,50,,75,67,49,0,25,,100,59,1,3700000
-WOO-1,Trail,CH,Noonday Creek Trail Extension,64,,100,0,,0,52,31,0,100,,100,51,1,3650000
-1-Mar,Trail,CO,North Marietta Pkwy,50,,20,50,,50,44,37,100,0,,0,38,4,6650000
-2-Mar,Trail,CO,Burnt Hickory Trail,36,,60,50,,50,39,32,0,25,,0,35,2,2320000
-CCID03,Trail,CO,Akers Mill Trail,24,,20,0,,75,19,47,0,0,,0,22,4,2480000
-CO-2,Trail,CO,Mableton Parkway Trail - PH1,75,,60,50,,0,61,37,100,0,,100,52,1,6770000
-CO-3,Trail,CO,Mableton Parkway Trail - PH2,65,,60,50,,25,52,45,100,0,,100,54,1,4700000
-CO-462,Trail,CO,Rottenwood Creek Trail - PH1,16,,80,50,,50,14,25,100,25,,100,53,3,10920000
-CO-703,Trail,CO,West Atlanta Street Trail,25,,100,0,,0,23,40,100,0,,0,32,2,2200000
-CW-077,Trail,CW,Senoia Ivy Ridge Trail,20,,60,0,,0,16,48,0,0,,0,16,2,1300000
-Brookhaven-02,Trail,DK,Peachtree Creek Greenway - PH2,49,,100,50,,50,36,79,100,0,,0,52,1,3400000
-Brookhaven-05,Trail,DK,North Druid Hills Path,71,,20,50,,0,69,48,100,0,,0,36,2,4760000
-Brookhaven-06,Trail,DK,Dresden Dr - Trail,34,,20,50,,75,34,47,0,25,,0,33,4,5000000
-Brookhaven-09,Trail,DK,Peachtree Creek Greenway - PH1,57,,100,50,,50,43,69,100,0,,0,53,3,6600000
-DK417,Trail,DK,Georgetown Multimodal,60,,20,50,,75,90,50,0,0,,100,48,3,6500000
-DK418-A,Trail,DK,Perimeter Trails - Ashford Dunw.,100,,80,0,,50,96,50,0,0,,100,52,1,2820000
-DK418-B,Trail,DK,Perimeter Trails - Ptree Dunwoody,49,,80,0,,50,49,49,0,0,,100,42,3,4720000
-FA-353,Trail,FA,Fayetteville Multi-Use Path,62,,40,0,,0,49,32,0,25,,100,33,2,3090000
-UNI-01,Trail,FS,Amenity Connector Trail,2,,40,0,,75,2,62,0,0,,100,32,4,550000
-GW-384,Trail,GW,Western Gwinnett Bikeway Ext,90,,0,0,,0,88,36,0,25,,100,34,4,8770000
-GW-385,Trail,GW,Norcross to Lilburn Trail,75,,60,0,,0,64,43,100,0,,100,46,1,5550000
-GW-402,Trail,GW,Rogers Bridge,40,,60,0,,0,30,50,0,25,,0,22,4,4600000
-GW-TRL1,Trail,GW,McDaniel Farm Park Connector,18,,20,0,,50,14,74,0,0,,100,29,4,3700000
-NORC-17-02,Trail,GW,Norcross LCI Greenway,47,,20,0,,0,73,50,100,25,,100,40,3,5450000
-Peachtree Corners-01,Trail,GW,Crooked Creek Multi-Use Trail,98,,80,0,,50,100,17,100,0,,100,60,1,4300000
-DAL-01,Trail,PA,Dallas Battlefield Trail,32,,20,0,,0,26,44,0,0,,0,12,2,630000
-PA-100,Trail,PA,Dallas Battlefield Trail - PH2,39,,20,0,,0,36,25,0,0,,0,12,4,4230000
-LOG-01,Trail,WA,SR81 Shared Use Path,31,,20,0,,0,30,51,0,0,,0,13,2,2000000
+"ID","project_type","performance_tier","cost","mobility","reliability","connect","multimodal","assetmngmt","saftey","airclimate","cultenv","social_equity","land_compat","goods_move","emp_access","fiNaNl_score"
+"placeholder","q",1,4580000,100,100,35,60,100,57,100,68,100,75,100,100,74
+"MID-01","Bike",1,4580000,100,NaN,35,60,NaN,57,100,68,100,75,NaN,100,74
+"GW-380","Bike",4,5210000,23,NaN,68,70,NaN,74,4,63,0,25,NaN,100,50
+"ADID-02","Ped",1,6150000,100,NaN,100,30,NaN,58,73,50,0,100,NaN,100,70
+"HOL-01","Ped",4,3090000,23,NaN,40,0,NaN,10,4,50,0,0,NaN,100,24
+"DK-414-1","Ped",4,5680000,54,NaN,100,30,NaN,27,19,50,100,50,NaN,100,60
+"DK-414-2","Ped",4,5680000,54,NaN,100,30,NaN,27,19,50,100,50,NaN,100,60
+"DK-414-3","Ped",4,5680000,54,NaN,100,30,NaN,27,19,50,100,50,NaN,100,60
+"DK-441","Ped",1,5340000,46,NaN,100,70,NaN,48,100,55,0,50,NaN,100,63
+"FAI-01","Ped",3,4600000,38,NaN,100,93,NaN,67,27,38,0,50,NaN,100,62
+"COS-01","Ped",3,7800000,100,NaN,100,30,NaN,66,100,5,100,50,NaN,100,74
+"FS-287","Ped",2,330000,33,NaN,100,30,NaN,18,45,50,100,50,NaN,100,57
+"DAL-02","Ped",2,250000,26,NaN,40,0,NaN,33,7,50,0,0,NaN,100,28
+"CL-01","Road Asset",3,5010000,74,NaN,66,50,32,25,NaN,40,100,NaN,50,100,58
+"CL-267","Road Asset",3,5810000,33,NaN,66,50,53,50,NaN,62,100,NaN,50,100,60
+"3-Mar","Road Asset",3,4170000,40,NaN,0,100,56,0,NaN,62,100,NaN,0,100,48
+"DO-300","Road Asset",1,630000,28,NaN,66,0,52,0,NaN,50,0,NaN,50,100,37
+"FA-02-1","Road Asset",3,590000,8,NaN,33,0,95,50,NaN,26,100,NaN,0,100,47
+"FA-02-10","Road Asset",4,580000,5,NaN,33,0,77,50,NaN,38,0,NaN,0,100,36
+"FA-02-11","Road Asset",3,940000,23,NaN,66,0,57,50,NaN,0,0,NaN,0,100,38
+"FA-02-2","Road Asset",1,270000,18,NaN,33,0,90,50,NaN,37,0,NaN,0,100,40
+"FA-02-3","Road Asset",2,260000,9,NaN,33,0,79,50,NaN,41,0,NaN,0,0,27
+"FA-02-4","Road Asset",4,2010000,31,NaN,66,0,58,50,NaN,28,0,NaN,0,0,30
+"FA-02-5","Road Asset",4,3040000,36,NaN,66,0,68,50,NaN,24,0,NaN,0,0,32
+"FA-02-6","Road Asset",1,600000,39,NaN,66,0,51,50,NaN,31,0,NaN,0,100,41
+"FA-02-7","Road Asset",1,230000,45,NaN,33,0,50,50,NaN,46,0,NaN,50,100,42
+"FA-02-8","Road Asset",4,570000,14,NaN,33,0,59,50,NaN,35,0,NaN,0,0,24
+"FA-02-9","Road Asset",2,430000,26,NaN,66,0,79,50,NaN,39,0,NaN,0,0,33
+"JOH-05","Road Asset",2,2000000,94,NaN,66,0,18,50,NaN,26,0,NaN,50,0,37
+"GW-PVT1","Road Asset",1,2300000,100,NaN,66,0,62,0,NaN,24,0,NaN,50,100,47
+"GW-PVT2-1","Road Asset",1,1500000,100,NaN,66,0,60,0,NaN,37,0,NaN,0,100,43
+"GW-PVT2-2","Road Asset",1,1500000,100,NaN,66,0,60,0,NaN,37,0,NaN,0,100,43
+"GW-PVT3","Road Asset",2,800000,58,NaN,33,0,43,0,NaN,39,0,NaN,0,100,31
+"GW-PVT4","Road Asset",2,950000,36,NaN,66,0,69,0,NaN,22,0,NaN,0,0,25
+"GW-PVT5","Road Asset",2,1000000,53,NaN,66,0,46,0,NaN,44,0,NaN,0,100,35
+"NE-106","Road Asset",3,6660000,46,NaN,66,50,100,0,NaN,61,0,NaN,50,0,43
+"NE-107","Road Asset",4,4550000,42,NaN,66,0,69,25,NaN,75,0,NaN,50,0,36
+"CCID01","Road Expansion",2,20570000,14,100,0,0,NaN,13,0,41,0,NaN,0,73,25
+"CO-450B","Road Expansion",1,31160000,70,0,100,100,NaN,38,82,49,0,NaN,0,84,55
+"NEWNaNN-01","Road Expansion",3,52200000,24,30,0,62,NaN,55,31,48,100,NaN,0,65,40
+"EAS-01","Road Expansion",3,6330000,11,55,0,9,NaN,21,35,48,100,NaN,100,70,39
+"FT-001F","Road Expansion",1,17500000,31,76,0,20,NaN,67,43,43,0,NaN,100,62,44
+"AR-ML-020","Road Expansion",3,40100000,86,14,0,0,NaN,14,0,50,100,NaN,100,97,42
+"AR-ML-025","Road Expansion",1,29190000,50,42,0,0,NaN,41,100,50,0,NaN,100,50,40
+"AR-ML-210","Road Expansion",2,33400000,50,64,0,0,NaN,17,0,0,100,NaN,0,100,34
+"AR-ML-240","Road Expansion",2,42720000,50,55,0,0,NaN,20,0,30,100,NaN,0,100,35
+"GW-269","Road Expansion",1,39310000,100,100,0,100,NaN,37,46,33,0,NaN,100,100,65
+"GW-389","Road Expansion",2,15200000,9,0,0,0,NaN,25,35,50,0,NaN,100,74,25
+"GW-EVM1","Road Expansion",2,11600000,19,0,100,4,NaN,38,25,46,0,NaN,100,22,35
+"GW-KH","Road Expansion",1,20000000,69,45,0,0,NaN,29,58,45,100,NaN,0,33,35
+"HE-005","Road Expansion",1,21940000,51,31,0,62,NaN,41,71,55,100,NaN,100,57,52
+"HE-109","Road Expansion",2,7000000,15,0,100,33,NaN,25,45,65,0,NaN,0,23,31
+"HE-126 B","Road Expansion",3,18000000,36,32,0,45,NaN,88,30,52,0,NaN,100,64,45
+"HE-137","Road Expansion",4,39000000,32,23,0,38,NaN,26,37,47,0,NaN,0,23,22
+"HE-161A","Road Expansion",4,32980000,36,33,0,68,NaN,29,38,64,0,NaN,0,63,33
+"HE-193","Road Expansion",4,23700000,11,26,0,42,NaN,27,27,68,0,NaN,0,12,20
+"PA-036B","Road Expansion",4,38850000,4,3,0,19,NaN,47,25,34,0,NaN,0,15,15
+"RO 235E1","Road Expansion",3,27310000,8,53,0,50,NaN,60,37,58,0,NaN,100,68,42
+"RO 243","Road Expansion",4,21750000,5,0,100,16,NaN,13,31,54,0,NaN,0,70,29
+"RO-235D","Road Expansion",3,28300000,26,25,0,71,NaN,65,31,71,100,NaN,100,70,51
+"Atlanta-03","Road Operations",3,18000000,49,44,100,0,NaN,36,0,48,100,NaN,0,100,49
+"CHE-01","Road Operations",3,4500000,30,95,100,0,NaN,75,0,50,0,NaN,100,0,48
+"CHE-02","Road Operations",3,5800000,48,38,100,0,NaN,72,38,50,0,NaN,100,0,46
+"CHE-03","Road Operations",3,4690000,41,49,100,0,NaN,75,38,50,0,NaN,100,0,47
+"Brookhaven-04a","Road Operations",1,2600000,70,84,100,30,NaN,44,34,50,0,NaN,0,0,46
+"Brookhaven-04b","Road Operations",4,8240000,25,57,100,30,NaN,49,27,49,0,NaN,0,0,37
+"Brookhaven-08","Road Operations",4,1920000,47,97,100,48,NaN,38,28,50,0,NaN,0,0,45
+"Brookhaven-10","Road Operations",4,7600000,33,62,100,46,NaN,51,28,48,0,NaN,0,0,41
+"DK-065B","Road Operations",1,22180000,76,55,100,100,NaN,48,100,53,100,NaN,0,100,74
+"DK-344C-1","Road Operations",1,3200000,69,50,100,0,NaN,49,100,51,100,NaN,100,100,69
+"DK-344C-2","Road Operations",1,3200000,69,50,100,0,NaN,49,100,51,100,NaN,100,100,69
+"DK-344C-3","Road Operations",1,3200000,69,50,100,0,NaN,49,100,51,100,NaN,100,100,69
+"DUN-01","Road Operations",2,4600000,92,100,0,50,NaN,67,43,49,0,NaN,0,0,44
+"FN-287","Road Operations",4,16000000,41,53,100,0,NaN,31,33,47,0,NaN,100,0,41
+"FN-288A","Road Operations",4,7000000,30,48,100,32,NaN,30,28,49,0,NaN,100,0,42
+"FT-335","Road Operations",4,1400000,4,17,100,0,NaN,21,25,50,0,NaN,100,0,30
+"GW-CVEH","Road Operations",1,2850000,75,47,100,0,NaN,40,100,0,0,NaN,100,100,59
+"GW-ITS1-1","Road Operations",1,4890000,66,35,100,0,NaN,13,100,36,100,NaN,100,100,61
+"GW-ITS1-2","Road Operations",1,4890000,66,35,100,0,NaN,13,100,36,100,NaN,100,100,61
+"GW-ITS1-3","Road Operations",1,4890000,66,35,100,0,NaN,13,100,36,100,NaN,100,100,61
+"GW-ITS1-4","Road Operations",1,4890000,66,35,100,0,NaN,13,100,36,100,NaN,100,100,61
+"GW-ITS1-5","Road Operations",1,4890000,66,35,100,0,NaN,13,100,36,100,NaN,100,100,61
+"GW-ITS1-6","Road Operations",1,4890000,66,35,100,0,NaN,13,100,36,100,NaN,100,100,61
+"GW-ITS1-7","Road Operations",1,4890000,66,35,100,0,NaN,13,100,36,100,NaN,100,100,61
+"GW-ITS3-1","Road Operations",1,5930000,59,3,100,0,NaN,25,100,36,100,NaN,100,100,58
+"GW-ITS3-2","Road Operations",1,5930000,59,3,100,0,NaN,25,100,36,100,NaN,100,100,58
+"GW-ITS3-3","Road Operations",1,5930000,59,3,100,0,NaN,25,100,36,100,NaN,100,100,58
+"GW-ITS3-4","Road Operations",1,5930000,59,3,100,0,NaN,25,100,36,100,NaN,100,100,58
+"GW-ITS3-5","Road Operations",1,5930000,59,3,100,0,NaN,25,100,36,100,NaN,100,100,58
+"GW-ITS3-6","Road Operations",1,5930000,59,3,100,0,NaN,25,100,36,100,NaN,100,100,58
+"NE-105","Road Operations",3,5760000,8,12,100,0,NaN,88,0,50,0,NaN,100,100,47
+"GRI-02","Road Operations",4,2400000,6,24,0,0,NaN,39,25,55,0,NaN,0,0,14
+"SP-067A","Road Operations",4,12840000,7,26,100,0,NaN,2,25,46,100,NaN,100,100,46
+"AR-550","Transit Asset",3,4250000,54,NaN,NaN,NaN,67,100,NaN,0,0,NaN,NaN,100,60
+"GRTA-003","Transit Asset",2,2500000,90,NaN,NaN,NaN,0,100,NaN,0,0,NaN,NaN,100,52
+"GRTA-004","Transit Asset",2,8000000,90,NaN,NaN,NaN,0,100,NaN,0,0,NaN,NaN,100,52
+"GRTA-006","Transit Asset",3,8250000,33,NaN,NaN,NaN,13,100,NaN,30,100,NaN,NaN,100,60
+"GW-PNR","Transit Asset",3,2000000,33,NaN,NaN,NaN,86,0,NaN,25,100,NaN,NaN,100,63
+"M-AR-274B2","Transit Asset",1,5500000,17,NaN,NaN,NaN,69,0,100,0,100,NaN,NaN,100,58
+"MARTA-02","Transit Asset",2,4700000,59,NaN,NaN,NaN,50,0,NaN,60,100,NaN,NaN,100,63
+"CO-702","Transit Expansion",3,6800000,100,16,100,0,NaN,0,100,0,100,25,NaN,50,53
+"DO-01","Transit Expansion",4,8000000,14,13,67,50,NaN,0,16,46,100,25,NaN,62,40
+"GRTA-002","Transit Expansion",3,5880000,9,52,67,0,NaN,100,6,42,100,25,NaN,67,47
+"GRTA-005","Transit Expansion",3,8250000,1,50,67,50,NaN,100,0,65,0,0,NaN,100,43
+"GW-BUS1","Transit Expansion",1,5040000,64,13,100,25,NaN,0,58,62,100,50,NaN,88,58
+"GW-BUS2","Transit Expansion",1,3210000,64,13,100,25,NaN,0,58,47,100,50,NaN,88,57
+"GW-BUS3","Transit Expansion",4,4590000,26,25,33,25,NaN,0,29,47,100,50,NaN,83,42
+"MARTA-04","Transit Expansion",3,45000000,100,71,67,0,NaN,100,100,48,100,25,NaN,73,69
+"MARTA-05-1","Transit Expansion",2,4810000,18,30,33,0,NaN,0,7,48,100,0,NaN,73,31
+"MARTA-05-10","Transit Expansion",4,2480000,0,25,33,0,NaN,0,0,49,100,0,NaN,68,27
+"MARTA-05-11","Transit Expansion",4,1380000,1,13,67,0,NaN,0,0,48,100,75,NaN,72,38
+"MARTA-05-12","Transit Expansion",2,1210000,11,13,67,0,NaN,0,10,49,100,75,NaN,81,41
+"MARTA-05-2","Transit Expansion",2,2500000,17,30,33,0,NaN,0,12,49,100,25,NaN,77,34
+"MARTA-05-3","Transit Expansion",2,3310000,13,33,33,0,NaN,0,8,49,100,25,NaN,63,32
+"MARTA-05-4","Transit Expansion",1,4660000,100,30,67,0,NaN,0,100,47,100,0,NaN,88,54
+"MARTA-05-5","Transit Expansion",1,1490000,100,30,100,0,NaN,0,100,49,100,25,NaN,89,62
+"MARTA-05-6","Transit Expansion",2,2570000,65,25,33,0,NaN,0,0,49,100,25,NaN,81,40
+"MARTA-05-7","Transit Expansion",4,2820000,1,25,67,0,NaN,0,0,49,100,25,NaN,76,35
+"MARTA-05-8","Transit Expansion",1,2670000,51,25,67,0,NaN,0,51,49,100,25,NaN,73,45
+"MARTA-05-9","Transit Expansion",3,4260000,43,25,67,0,NaN,0,36,48,100,25,NaN,70,42
+"AR-450A","Trail",3,101000000,100,NaN,80,50,NaN,100,100,67,100,25,NaN,100,80
+"AR-450C","Trail",3,98820000,100,NaN,100,50,NaN,100,100,65,100,25,NaN,100,83
+"ATL-299","Trail",1,8150000,100,NaN,100,50,NaN,75,100,48,100,25,NaN,100,78
+"BCID-02","Trail",2,4550000,52,NaN,20,0,NaN,0,46,55,0,0,NaN,100,27
+"BCID-04","Trail",3,13950000,83,NaN,20,0,NaN,50,86,50,0,25,NaN,100,44
+"LBI-01","Trail",4,5600000,34,NaN,80,50,NaN,75,32,61,0,0,NaN,0,40
+"LBI-2","Trail",1,3700000,49,NaN,100,50,NaN,75,67,49,0,25,NaN,100,59
+"WOO-1","Trail",1,3650000,64,NaN,100,0,NaN,0,52,31,0,100,NaN,100,51
+"1-Mar","Trail",4,6650000,50,NaN,20,50,NaN,50,44,37,100,0,NaN,0,38
+"2-Mar","Trail",2,2320000,36,NaN,60,50,NaN,50,39,32,0,25,NaN,0,35
+"CCID03","Trail",4,2480000,24,NaN,20,0,NaN,75,19,47,0,0,NaN,0,22
+"CO-2","Trail",1,6770000,75,NaN,60,50,NaN,0,61,37,100,0,NaN,100,52
+"CO-3","Trail",1,4700000,65,NaN,60,50,NaN,25,52,45,100,0,NaN,100,54
+"CO-462","Trail",3,10920000,16,NaN,80,50,NaN,50,14,25,100,25,NaN,100,53
+"CO-703","Trail",2,2200000,25,NaN,100,0,NaN,0,23,40,100,0,NaN,0,32
+"CW-077","Trail",2,1300000,20,NaN,60,0,NaN,0,16,48,0,0,NaN,0,16
+"Brookhaven-02","Trail",1,3400000,49,NaN,100,50,NaN,50,36,79,100,0,NaN,0,52
+"Brookhaven-05","Trail",2,4760000,71,NaN,20,50,NaN,0,69,48,100,0,NaN,0,36
+"Brookhaven-06","Trail",4,5000000,34,NaN,20,50,NaN,75,34,47,0,25,NaN,0,33
+"Brookhaven-09","Trail",3,6600000,57,NaN,100,50,NaN,50,43,69,100,0,NaN,0,53
+"DK417","Trail",3,6500000,60,NaN,20,50,NaN,75,90,50,0,0,NaN,100,48
+"DK418-A","Trail",1,2820000,100,NaN,80,0,NaN,50,96,50,0,0,NaN,100,52
+"DK418-B","Trail",3,4720000,49,NaN,80,0,NaN,50,49,49,0,0,NaN,100,42
+"FA-353-1","Trail",2,3090000,62,NaN,40,0,NaN,0,49,32,0,25,NaN,100,33
+"FA-353-3","Trail",2,3090000,62,NaN,40,0,NaN,0,49,32,0,25,NaN,100,33
+"UNI-01","Trail",4,550000,2,NaN,40,0,NaN,75,2,62,0,0,NaN,100,32
+"GW-384","Trail",4,8770000,90,NaN,0,0,NaN,0,88,36,0,25,NaN,100,34
+"GW-385","Trail",1,5550000,75,NaN,60,0,NaN,0,64,43,100,0,NaN,100,46
+"GW-402","Trail",4,4600000,40,NaN,60,0,NaN,0,30,50,0,25,NaN,0,22
+"GW-TRL1","Trail",4,3700000,18,NaN,20,0,NaN,50,14,74,0,0,NaN,100,29
+"NORC-17-02","Trail",3,5450000,47,NaN,20,0,NaN,0,73,50,100,25,NaN,100,40
+"Peachtree Corners-01","Trail",1,4300000,98,NaN,80,0,NaN,50,100,17,100,0,NaN,100,60
+"DAL-01","Trail",2,630000,32,NaN,20,0,NaN,0,26,44,0,0,NaN,0,12
+"PA-100","Trail",4,4230000,39,NaN,20,0,NaN,0,36,25,0,0,NaN,0,12
+"LOG-01","Trail",2,2000000,31,NaN,20,0,NaN,0,30,51,0,0,NaN,0,13
